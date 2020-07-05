@@ -1,3 +1,3 @@
 # GuriEstudo
 Estudo
-# Estou editando esse arquivo rapaz!!!
+# Estou editando esse arquivo guri!!!
